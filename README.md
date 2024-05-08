@@ -1,5 +1,5 @@
-![rsz_20240508_222414](https://github.com/askadityapandey/termicture/assets/144938685/cf5e2b80-ef79-4ff2-b1bf-44392b43d334)
 
+![20240508_223254](https://github.com/askadityapandey/termicture/assets/144938685/9435dbfb-adf8-4a94-b7f0-a747563f84f8)
 
 ## Overview
 
