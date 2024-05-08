@@ -57,3 +57,4 @@ This script was developed using the ImageMagick library and the Bash programming
 
 If you have any questions or need assistance with the script, please feel free to reach out to me at [your email address].
 # termicture
+# termicture
