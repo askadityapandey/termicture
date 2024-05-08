@@ -1,4 +1,4 @@
-![<img src="image.png" width="250"/>](https://github.com/askadityapandey/termicture/assets/144938685/eb0c81e5-d050-4bc4-9c31-9504df9342cc)
+![20240508_222414 (1)](https://github.com/askadityapandey/termicture/assets/144938685/b65c3591-a444-4eb7-9785-fe5e082b73bb)
 
 
 ## Overview
