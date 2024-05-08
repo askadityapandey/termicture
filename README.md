@@ -1,3 +1,6 @@
+
+![Logo](https://github.com/askadityapandey/termicture/assets/144938685/b52ddc8c-750d-4562-94dd-338714586bd2)
+
 ## Overview
 
 The script iterates through each file in the input folder, checks if the file is an image (jpg, jpeg, or png), and then compresses it using ImageMagick. The compression process involves resizing the image to 50% of its original size and setting the quality to 85%. The compressed image is saved with the same filename but with `_compressed` appended to the filename.
