@@ -1,5 +1,5 @@
+![20240508_222414](https://github.com/askadityapandey/termicture/assets/144938685/eb0c81e5-d050-4bc4-9c31-9504df9342cc)
 
-![Logo](https://github.com/askadityapandey/termicture/assets/144938685/b52ddc8c-750d-4562-94dd-338714586bd2)
 
 ## Overview
 
@@ -58,6 +58,4 @@ This script was developed using the ImageMagick library and the Bash programming
 
 ## Contact
 
-If you have any questions or need assistance with the script, please feel free to reach out to me at [your email address].
-# termicture
-# termicture
+If you have any questions or need assistance with the script, please feel free to reach out to me.
