@@ -52,7 +52,7 @@ $ sudo pacman -S imagemagick
 
 This script is licensed under the MIT License. You are free to use, modify, and distribute it as you see fit.
 
-## Acknowledgments
+## Acknowledgment(s)
 
 This script was developed using the ImageMagick library and the Bash programming language. The script's functionality is inspired by various online resources and tutorials on image compression and Bash scripting.
 
